@@ -4,7 +4,7 @@
 #    yarn content add-redirect <fromURL> <toURL>
 #
 # FROM-URL	TO-URL
-/ru/docs/AJAX	/ru/docs/Web/Guide/AJAX
+/ru/docs/AJAX	/ru/docs/conflicting/Learn/JavaScript/Client-side_web_APIs/Fetching_data
 /ru/docs/AJAX/С_чего_начать	/ru/docs/conflicting/Web/Guide/AJAX
 /ru/docs/AJAX:С_чего_начать	/ru/docs/conflicting/Web/Guide/AJAX
 /ru/docs/Accessibility	/ru/docs/Web/Accessibility
@@ -696,6 +696,7 @@
 /ru/docs/Web/Events/transitionend	/ru/docs/Web/API/Element/transitionend_event
 /ru/docs/Web/Events/unhandledrejection	/ru/docs/Web/API/Window/unhandledrejection_event
 /ru/docs/Web/Events/стримится	/ru/docs/Web/API/HTMLMediaElement/seeking_event
+/ru/docs/Web/Guide/AJAX	/ru/docs/conflicting/Learn/JavaScript/Client-side_web_APIs/Fetching_data
 /ru/docs/Web/Guide/AJAX/Getting_Started	/ru/docs/conflicting/Web/Guide/AJAX
 /ru/docs/Web/Guide/AJAX/С_чего_начать	/ru/docs/conflicting/Web/Guide/AJAX
 /ru/docs/Web/Guide/CSS/Getting_started/SVG_и_CSS	/ru/docs/Web/SVG/Tutorial/SVG_and_CSS
@@ -872,8 +873,8 @@
 /ru/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/clear	/ru/docs/conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /ru/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly	/ru/docs/WebAssembly/JavaScript_interface
 /ru/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Table	/ru/docs/WebAssembly/JavaScript_interface/Table
-/ru/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/compile	/ru/docs/WebAssembly/JavaScript_interface/compile
-/ru/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/compileStreaming	/ru/docs/WebAssembly/JavaScript_interface/compileStreaming
+/ru/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/compile	/ru/docs/WebAssembly/JavaScript_interface/compile_static
+/ru/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/compileStreaming	/ru/docs/WebAssembly/JavaScript_interface/compileStreaming_static
 /ru/docs/Web/JavaScript/Reference/Global_Objects/null	/ru/docs/Web/JavaScript/Reference/Operators/null
 /ru/docs/Web/JavaScript/Reference/Global_Objects/uneval	/ru/docs/conflicting/Web/JavaScript/Reference/Global_Objects
 /ru/docs/Web/JavaScript/Reference/Methods_Index	/ru/docs/Web/JavaScript/Reference
@@ -988,6 +989,8 @@
 /ru/docs/Web/Манифест/short_name	/ru/docs/Web/Manifest/short_name
 /ru/docs/Web/Манифест/start_url	/ru/docs/Web/Manifest/start_url
 /ru/docs/Web/Манифест/theme_color	/ru/docs/Web/Manifest/theme_color
+/ru/docs/WebAssembly/JavaScript_interface/compile	/ru/docs/WebAssembly/JavaScript_interface/compile_static
+/ru/docs/WebAssembly/JavaScript_interface/compileStreaming	/ru/docs/WebAssembly/JavaScript_interface/compileStreaming_static
 /ru/docs/WebGL	/ru/docs/Web/API/WebGL_API
 /ru/docs/WebGL/Using_shaders_to_apply_color_in_WebGL	/ru/docs/Web/API/WebGL_API/Tutorial/Using_shaders_to_apply_color_in_WebGL
 /ru/docs/WebSockets	/ru/docs/Web/API/WebSockets_API
