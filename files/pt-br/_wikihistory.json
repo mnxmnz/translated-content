@@ -1486,6 +1486,17 @@
     "modified": "2020-09-30T03:03:23.191Z",
     "contributors": ["SphinxKnight", "Paulo_Rezende"]
   },
+  "Learn/JavaScript/Client-side_web_APIs/Fetching_data": {
+    "modified": "2019-04-26T09:51:09.814Z",
+    "contributors": [
+      "helton-mori-dev",
+      "chrisdavidmills",
+      "Wanderleymuniz",
+      "flaviomicheletti",
+      "gigantebsb",
+      "PedroFelipe"
+    ]
+  },
   "Learn/JavaScript/Client-side_web_APIs/Introduction": {
     "modified": "2020-11-04T14:49:24.547Z",
     "contributors": [
@@ -3375,7 +3386,7 @@
       "sistematico"
     ]
   },
-  "Web/API/History_API/Example": {
+  "Web/API/History_API/Working_with_the_History_API": {
     "modified": "2019-03-18T21:40:08.609Z",
     "contributors": ["oidanieljunior"]
   },
@@ -5430,17 +5441,6 @@
       "luizmassa",
       "sheldonled",
       "Sheppy"
-    ]
-  },
-  "Web/Guide/AJAX": {
-    "modified": "2019-04-26T09:51:09.814Z",
-    "contributors": [
-      "helton-mori-dev",
-      "chrisdavidmills",
-      "Wanderleymuniz",
-      "flaviomicheletti",
-      "gigantebsb",
-      "PedroFelipe"
     ]
   },
   "Web/Guide/Graphics": {
